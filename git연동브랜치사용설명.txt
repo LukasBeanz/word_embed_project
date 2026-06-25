@@ -39,6 +39,6 @@ git push -u origin main
 # 깃허브 브라우저에서 새로고침해서 업로드 확인
 
 # 팀원들이 작업에 사용할 작업 브랜치를 깃 허브에서 만들어줌 (마스터)
-=>리포지토리 : Code 탭에서 'main' 클릭 > 브랜치 이름 입력 > 바로 아래의 'create branch....' 클릭
+=>리포지토리 : Code 탭에서 'main' 클릭 > 브랜치 이름 입력 > 바로 아래의 'create branch....'  
 git add .
 git commit -m "Initial Commit"
